@@ -6,7 +6,7 @@ Um programa Java que gera todas as combinações possíveis de anagramas a parti
 
 ### Pré-requisitos
 - Java 11+ instalado
-- Maven instalado (opcional)
+- Maven instalado 
 
 ### Via IDE (STS/Eclipse)
 1. Importe o projeto Maven
